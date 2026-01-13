@@ -166,4 +166,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or issues, please open an issue on GitHub or contact the authors.
+For questions or issues, please open an issue on GitHub or contact:
+
+**Sareer Ul Amin**  
+📧 Email: [sareerulamin320@gmail.com](mailto:sareerulamin320@gmail.com)  
+🐙 GitHub: [@sareerulamin](https://github.com/sareerulamin)
