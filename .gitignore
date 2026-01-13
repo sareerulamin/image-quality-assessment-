@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pth
+*.pt
+*.ckpt
+*.zip
+
+# Results (optional - uncomment if you want to track results)
+# *.png
+# *.pdf
+
+# Word/Office files
+*.docx
+*.xlsx
+
+# Origin files
+*.opju
+
+# Temporary files
+*.tmp
+*.temp
